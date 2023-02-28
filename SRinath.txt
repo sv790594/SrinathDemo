@@ -1,1 +1,5 @@
- hi all how are you , eatsapp nsjkxshn
+ 
+Hi hello good morning , how are you all 
+welcome to this devops class 
+lets understand how to push code from local repo to remote repio
+
